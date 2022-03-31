@@ -57,7 +57,7 @@ try{
 
   <!-- custom icom font awesome cdn file link -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-  <title>pdo toets</title>
+  <title>pdo_toets_herkansing</title>
 </head>
 
 <body>

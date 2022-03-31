@@ -14,8 +14,8 @@
 
             $stmt->bindParam(":id", $id);
             $stmt->bindParam(":burritoformaat", $burritoformaat);
-            $stmt->bindParam("saus", $saus);
-            $stmt->bindParam("bonen", $bonen);
+            $stmt->bindParam(":saus", $saus);
+            $stmt->bindParam(":bonen", $bonen);
             $stmt->bindParam(":rijst", $rijst);
 
             $id = null;
